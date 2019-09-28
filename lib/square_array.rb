@@ -1,5 +1,6 @@
 def square_array(array)
-def output_array_elements
+while array = 1,2,3 do 
+  array**
 end
 
 
